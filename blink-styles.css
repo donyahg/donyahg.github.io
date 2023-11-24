@@ -1,1 +1,43 @@
+div {
+	margin: 20px 5px;
+	padding: 10px;
+	background-color: gray;
+	border: 4px solid black;
+}
 
+.box {
+	background-color: black;
+}
+
+#neu {
+	background-color: grey;
+}
+
+#neu.box{
+	background-color: pink;
+}
+
+div p {
+	
+}
+
+[href] {
+	color: red;
+}
+
+:hover {
+	background-color: black;
+}
+
+
+
+h1 {
+	font-family: "Bagel Fat One", "Times New Roman", sans-serif;
+}
+
+ul {
+	list-style-type: none;
+	color: red;
+	font-size: 20px;
+}	
+			
